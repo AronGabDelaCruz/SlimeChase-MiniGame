@@ -2,6 +2,9 @@
 
 A small Godot 4 project where a player moves in a maze while enemies chase them. Enemy 1 follows the player using A* pathfinding, and Enemy 2 tries to ambush the player, coordinating with Enemy 1.
 
+<img width="1104" height="592" alt="image" src="https://github.com/user-attachments/assets/dd1ab8d7-eac8-4620-b8d9-ffc42cd4363b" />
+
+
 ## Features
 
 - Player moves in four directions.
